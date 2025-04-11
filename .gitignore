@@ -1,0 +1,10 @@
+.venv/
+.idea/
+old/
+
+keywords.csv.zip
+movies_metadata.csv.zip
+s1.pkl
+
+scapy_vec.csv
+scapy_vec_clean.csv
