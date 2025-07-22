@@ -11,7 +11,7 @@ The dataset used in this project is sourced from Kaggle. It consists of two CSV 
 2. **Metadata File**: Contains detailed information about movies, including their title, genres, and overview.
 
 You can download the dataset from the following link:
-[Insert Kaggle Dataset Link Here](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
+[Kaggle Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
 
 ---
 
@@ -48,7 +48,7 @@ You can download the dataset from the following link:
 ---
 
 ## How It Works
-1. **Input**: Provide the title of a movie.
+1. **Input**: Provide the title of one or more movie(s).
 2. **Processing**: The system computes the vector representation of the input movie and finds its nearest neighbors using the KNN model.
 3. **Output**: A list of recommended movies with similar content is displayed.
 
@@ -63,4 +63,4 @@ You can download the dataset from the following link:
 
 ## Requirements
 - Python 3.x
-- Libraries: `pandas`, `numpy`, `pickle`, `ast`, `re`, `scipy`, `scikit-learn`, `gensim`, `scipy`
+- Libraries: `pandas`, `numpy`, `pickle`, `ast`, `re`, `scipy`, `scikit-learn`, `gensim`
